@@ -1,0 +1,19 @@
+
+
+    Step 1:- Clone or Download as zip.
+
+        git clone https://github.com/chinmayvernekar/fetch-Number.git
+
+    Step 2:- Open the project in any IDE
+
+    Step 3:- Run The Project.
+
+    Step 4:- Hit the url
+
+        url:- localhost:8080/FetchNextNumber
+
+        body:-
+
+        {
+            "categoryCode": 23
+        }

@@ -7,3 +7,13 @@
 
     3. Create a Repo Interface which extends Jpa Repo.
 
+    4. Create a method to find by CategoryCode in Repo.
+
+    5. If Number not found call the if statment.
+
+    6. If Number was found it will call else block.
+
+    7. Create a method sumOfNumber to check length of the is greater than 1.
+
+    8. create a method nextSum to find the sum of individual digit to be 1.
+

@@ -54,6 +54,7 @@ public class NumberModelService {
 
             numberModelRepo.save(numberModel);
         }else {
+            numberModel.setId(oldValue.getId());
             numberModel2.setCategoryCode(categoryCode);
             numberModel2.setValue(oldValue.getValue());
             TimeUnit.SECONDS.sleep(5);

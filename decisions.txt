@@ -1,0 +1,9 @@
+
+
+
+    1. Create Model Class of JSON Resp.
+
+    2. Create a model class to take user input as categoryCode in JSON.
+
+    3. Create a Repo Interface which extends Jpa Repo.
+
